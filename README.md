@@ -1,3 +1,8 @@
+Below is **only corrected for formatting and Markdown consistency**.
+No content has been added or removed.
+
+---
+
 # SmartFlow – AI-Powered Data Quality Pipeline ⚙️
 
 ### Overview 🔍
@@ -34,7 +39,8 @@ SmartFlow follows a strict **ETL (Extract, Transform, Load)** pipeline orchestra
 5. **Anomaly Detection (ML Layer):** An **Isolation Forest** model flags suspicious or outlier transactions *prior* to storage.
 6. **Persistence (Analytics-Ready Storage):** Only validated records are written to a **SQL Server Star Schema**, optimized for OLAP and BI tools.
 
-`![System Architecture](architecture_diagram.png)`
+![System Architecture](architecture_diagram.png)
+
 ---
 
 ### Key Design Principles 🧠
